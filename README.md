@@ -1,15 +1,24 @@
-<h1 align="center">Hi there 👋 Welcome to my profile!</h1>
+<h1 align="center">Hey there 👋 I'm Soham</h1>
+<h3 align="center">Full-Stack Developer • Tech Enthusiast • Lifelong Learner</h3>
 
-<p align="left">
-😄 Myself Soham, an aspiring developer currently upskilling myself by learning various languages, tools, frameworks, and databases.<br>
-📚 I am currently enrolled in the B.Tech Computer Science and Engineering program at Manipal University Jaipur.<br>
-⚡ I have a strong interest in full-stack development and enjoy building modern web applications.<br>
-🚀 Currently exploring backend development using Node.js and Express.js while improving my development workflow with modern tools and technologies.
+<p align="center">
+  Building modern web experiences with React, Next.js & TypeScript 🚀
 </p>
 
 ---
 
-## 💻 Tech Stack
+## 💫 About Me
+
+- 🎓 B.Tech CSE student at **Manipal University Jaipur**
+- 💻 Passionate about **Full-Stack Web Development**
+- ⚛️ Working with **React, Next.js, TypeScript & Tailwind CSS**
+- 🌱 Currently learning **Backend Development** using **Node.js** & **Express.js**
+- 🛠 Exploring databases, APIs, authentication, and scalable web architectures
+- 🚀 Interested in building impactful products and polished user experiences
+
+---
+
+# 💻 Tech Stack
 
 ### 🚀 Languages & Core Technologies
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)
@@ -37,16 +46,9 @@
 ---
 
 ## 🌱 Currently Learning
-- Backend Development with Node.js & Express.js
-- API Development & Authentication
-- Database Integration with Supabase
-- Full-Stack Application Architecture
-- TypeScript for scalable applications
 
-<!--
-Future Additions:
-📊 GitHub Stats
-🔥 Contribution Streak
-🚀 Featured Projects
-🌐 Portfolio Website
--->
+- Backend Development with Node.js & Express.js
+- REST APIs & Authentication
+- Database Integration with Supabase
+- Scalable Full-Stack Architecture
+- Advanced TypeScript Patterns
