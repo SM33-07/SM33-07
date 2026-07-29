@@ -176,14 +176,14 @@ I'm particularly interested in backend architecture, interactive graphics, devel
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SM33-07&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true" />
 
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=SM33-07&theme=github-dark&hide_border=true" />
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SM33-07&theme=github_dark" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=SM33-07&theme=github-dark&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=SM33-07&theme=github-dark&hide_border=true" />
+  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SM33-07&theme=github_dark" />
 </p>
 
 ---
