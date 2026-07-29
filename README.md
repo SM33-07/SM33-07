@@ -1,24 +1,69 @@
-<h1 align="center">Hey there 👋 I'm Soham</h1>
-<h3 align="center">Full-Stack Developer • Tech Enthusiast • Lifelong Learner</h3>
+<h1 align="center">Hi 👋, I'm Soham More</h1>
+
+<h3 align="center">
+Software Engineer building interactive experiences, developer tools,
+and production-ready web applications.
+</h3>
 
 <p align="center">
-  ### Full-Stack Engineer • Interactive Experiences • 3D Web 🚀
-
-Building immersive web applications with React, Next.js, Three.js and modern backend technologies.
-
-Currently turning portfolios into RPGs.
+  <a href="https://aether-realm-soham.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-Aether%20Realm-6C63FF?style=for-the-badge" />
+  </a>
+  <a href="https://www.linkedin.com/in/soham-more-muj/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:sohammore312@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-## 💫 About Me
+# 👨‍💻 About Me
 
-- 🎓 B.Tech CSE student at **Manipal University Jaipur**
-- 💻 Passionate about **Full-Stack Web Development**
-- ⚛️ Working with **React, Next.js, TypeScript & Tailwind CSS**
-- 🌱 Currently learning **Backend Development** using **Node.js** & **Express.js**
-- 🛠 Exploring databases, APIs, authentication, and scalable web architectures
-- 🚀 Interested in building impactful products and polished user experiences
+🎓 B.Tech Computer Science student at **Manipal University Jaipur**
+
+💡 I enjoy building software where engineering meets experience.
+
+My work currently spans three areas:
+
+- 🎮 Interactive Experiences
+- 🛠 Developer Tools
+- 🌐 Full-Stack Applications
+
+I'm particularly interested in backend architecture, interactive graphics,
+developer tooling, and crafting polished user experiences.
+
+---
+
+# 🚀 Projects
+
+## 🎮 Interactive Experiences
+
+| Project | Description | Stack |
+|---------|-------------|------|
+| ⚔ **Aether Realm** | RPG-inspired interactive portfolio | React Three Fiber, Three.js, Next.js |
+| 🕵 **Operation Deadlight** | Narrative-driven detective experience | React, TypeScript |
+
+---
+
+## 🛠 Developer Tools
+
+| Project | Description | Status |
+|---------|-------------|------|
+| 📦 **CodeVault** | Self-hosted code snippet manager | 🚧 Active Development |
+| 📊 **Query Advisor** | SQL performance visualization platform | 📝 Planned |
+| 📡 **Pulse Monitor** | Infrastructure & application monitoring dashboard | 📝 Planned |
+
+---
+
+## 🌐 Full-Stack Applications
+
+| Project | Description |
+|---------|-------------|
+| 🏛 **Code-e-Manipal Portal** | Competition & event management platform |
+| 💙 **LearnIT Submission Portal** | Submission & judging platform |
+| ⚡ **IEEE SB Website** | Open-source contributions |
 
 ---
 
@@ -57,15 +102,55 @@ Currently turning portfolios into RPGs.
 ### 🎨 Design & 3D
 ![Blender](https://img.shields.io/badge/Blender-F5792A.svg?style=flat&logo=blender&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?style=flat&logo=figma&logoColor=white)
+---
+
+# 📈 GitHub Analytics
+
+<p align="center">
+
+<img width="48%" src="https://awesome-github-stats.azurewebsites.net/user-stats/SM33-07?cardType=level-alternate&theme=github-dark&preferLogin=false"/>
+
+<img width="48%" src="https://streak-stats.demolab.com?user=SM33-07&theme=github-dark&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=SM33-07&theme=github-dark"/>
+
+</p>
 
 ---
 
-## 🌱 Currently Learning
+# 🌱 Currently Exploring
 
-- Backend Development with Node.js & Express.js
-- REST APIs & Authentication
-- Database Integration with Supabase
-- Scalable Full-Stack Architecture
-- Advanced TypeScript Patterns
+- Backend Architecture
+- Systems Design
+- Database Performance
+- Computer Graphics
+- Interactive 3D Web
+- AI-assisted Development
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=SM33-07&theme=github_dark&show_icons=true&include_all_commits=true)](https://github.com/stats-organization/github-stats-extended)
+---
+
+# 🤝 Open Source
+
+- IEEE SB Website
+- IEEE CS Website
+- LearnIT Website
+- GSSoC '26
+
+Always happy to collaborate on interesting projects.
+
+---
+
+# 📫 Connect
+
+🌐 Portfolio
+https://aether-realm-soham.vercel.app
+
+💼 LinkedIn
+https://www.linkedin.com/in/soham-more-muj/
+
+📧 Email
+mailto:sohammore312@gmail.com
