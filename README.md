@@ -1,21 +1,122 @@
-<h1 align="center">Hi 👋, I'm Soham More</h1>
+<div align="center">
 
-<h3 align="center">
-Software Engineer building interactive experiences, developer tools,
-and production-ready web applications.
-</h3>
+# Hi 👋, I'm Soham More
 
-<p align="center">
-  <a href="https://aether-realm-soham.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-Aether%20Realm-6C63FF?style=for-the-badge" />
-  </a>
-  <a href="https://www.linkedin.com/in/soham-more-muj/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:sohammore312@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+### Software Engineer building **interactive experiences**, **developer tools**, and **production-ready web applications**.
+
+*Building products at the intersection of graphics, backend engineering, and developer experience.*
+
+<p>
+<a href="https://aether-realm-soham.vercel.app">
+<img src="https://img.shields.io/badge/🌐_Portfolio-Aether_Realm-6C63FF?style=for-the-badge">
+</a>
+<a href="https://www.linkedin.com/in/soham-more-muj">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+<a href="mailto:sohammore3312@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
 </p>
+
+</div>
+
+---
+
+# 🚀 What I'm Building
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+## ⚔ Aether Realm
+
+An RPG-inspired interactive developer portfolio built with **React Three Fiber**, **Three.js**, **Next.js**, and **TypeScript**.
+
+**Highlights**
+
+- Interactive world
+- Dialogue system
+- Quest-based navigation
+- Immersive UI
+- Custom camera controls
+
+🌐 <a href="https://aether-realm-soham.vercel.app">Live Demo</a> •
+📦 <a href="https://github.com/SM33-07/Aether-Realm">Repository</a>
+
+</td>
+
+<td width="50%">
+
+## 📦 CodeVault
+
+A self-hosted developer snippet manager focused on clean backend architecture.
+
+**Highlights**
+
+- Express.js
+- PostgreSQL
+- Prisma ORM
+- Authentication
+- REST APIs
+
+📦 <a href="https://github.com/SM33-07/CodeVault">Repository</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+## 🏛 Code-e-Manipal Portal
+
+Production-ready event and hackathon management platform.
+
+📦 <a href="https://github.com/SM33-07/Code-e-Manipal">Repository</a>
+
+</td>
+
+<td>
+
+## 🕵 Operation Deadlight
+
+Interactive detective experience blending storytelling with web technologies.
+
+🌐 <a href="https://cascade-ieee-cs.vercel.app/hunt">Live Experience</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+## 📊 Query Advisor *(Coming Soon)*
+
+Visual SQL optimisation platform.
+
+🚧 In Development
+
+</td>
+
+<td>
+
+## 📡 Pulse Monitor *(Coming Soon)*
+
+Infrastructure monitoring and observability dashboard.
+
+🚧 In Development
+
+</td>
+
+</tr>
+
+</table>
 
 ---
 
@@ -31,39 +132,7 @@ My work currently spans three areas:
 - 🛠 Developer Tools
 - 🌐 Full-Stack Applications
 
-I'm particularly interested in backend architecture, interactive graphics,
-developer tooling, and crafting polished user experiences.
-
----
-
-# 🚀 Projects
-
-## 🎮 Interactive Experiences
-
-| Project | Description | Stack |
-|---------|-------------|------|
-| ⚔ **Aether Realm** | RPG-inspired interactive portfolio | React Three Fiber, Three.js, Next.js |
-| 🕵 **Operation Deadlight** | Narrative-driven detective experience | React, TypeScript |
-
----
-
-## 🛠 Developer Tools
-
-| Project | Description | Status |
-|---------|-------------|------|
-| 📦 **CodeVault** | Self-hosted code snippet manager | 🚧 Active Development |
-| 📊 **Query Advisor** | SQL performance visualization platform | 📝 Planned |
-| 📡 **Pulse Monitor** | Infrastructure & application monitoring dashboard | 📝 Planned |
-
----
-
-## 🌐 Full-Stack Applications
-
-| Project | Description |
-|---------|-------------|
-| 🏛 **Code-e-Manipal Portal** | Competition & event management platform |
-| 💙 **LearnIT Submission Portal** | Submission & judging platform |
-| ⚡ **IEEE SB Website** | Open-source contributions |
+I'm particularly interested in backend architecture, interactive graphics, developer tooling, and crafting polished user experiences.
 
 ---
 
@@ -102,55 +171,53 @@ developer tooling, and crafting polished user experiences.
 ### 🎨 Design & 3D
 ![Blender](https://img.shields.io/badge/Blender-F5792A.svg?style=flat&logo=blender&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?style=flat&logo=figma&logoColor=white)
+
 ---
 
-# 📈 GitHub Analytics
+## 📊 GitHub Analytics
 
 <p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SM33-07&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true" />
 
-[![Soham's GitHub stats](https://github-stats-extended.vercel.app/api?username=SM33-07)](https://github.com/stats-organization/github-stats-extended)
-
-<img width="48%" src="https://streak-stats.demolab.com?user=SM33-07&theme=github-dark&hide_border=true"/>
-
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=SM33-07&theme=github-dark&hide_border=true" />
 </p>
 
 <p align="center">
-
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=SM33-07&theme=github-dark"/>
-
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=SM33-07&theme=github-dark&hide_border=true" />
 </p>
 
 ---
 
-# 🌱 Currently Exploring
+# 🌟 Open Source
 
-- Backend Architecture
-- Systems Design
-- Database Performance
-- Computer Graphics
-- Interactive 3D Web
-- AI-assisted Development
+- <a href="https://github.com/ieeemuj/IEEE-SB-Website">IEEE SB MUJ Website</a>
+- <a href="https://github.com/ieeecsmuj/ieeecsmuj.com">IEEE CS MUJ Website</a>
+- <a href="https://learnitmuj.org">LearnIT MUJ Website</a>
+- <a href="https://gssoc.girlscript.tech/">GirlScript Summer of Code 2026</a>
 
 ---
 
-# 🤝 Open Source
+# 🎯 Current Mission
 
-- IEEE SB Website
-- IEEE CS Website
-- LearnIT Website
-- GSSoC '26
-
-Always happy to collaborate on interesting projects.
+| Project | Status |
+|----------|--------|
+| ⚔ Aether Realm | 🚀 Expanding |
+| 📦 CodeVault | 🚧 Active Development |
+| 📊 Query Advisor | 📝 Planning |
+| 📡 Pulse Monitor | 📝 Planning |
 
 ---
 
 # 📫 Connect
 
-🌐 Portfolio
-https://aether-realm-soham.vercel.app
+- 🌐 Portfolio → https://aether-realm-soham.vercel.app
+- 💼 LinkedIn → https://www.linkedin.com/in/soham-more-muj
+- 📧 Email → mailto:sohammore3312@gmail.com
 
-💼 LinkedIn
-https://www.linkedin.com/in/soham-more-muj/
+---
 
-📧 Email
-mailto:sohammore312@gmail.com
+<div align="center">
+
+### *Build products people remember, not just repositories they star.*
+
+</div>
