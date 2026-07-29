@@ -179,7 +179,10 @@ I'm particularly interested in backend architecture, interactive graphics, devel
 
 <p align="center">
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SM33-07&theme=github_dark" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=SM33-07&theme=github-dark&hide_border=true" />
+  <img
+  width="49%"
+  src="https://github-readme-streak-stats-eight.vercel.app/?user=SM33-07&theme=github-dark&hide_border=true"
+/>
 </p>
 
 <p align="center">
