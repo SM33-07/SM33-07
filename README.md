@@ -108,7 +108,7 @@ developer tooling, and crafting polished user experiences.
 
 <p align="center">
 
-<img width="48%" src="https://awesome-github-stats.azurewebsites.net/user-stats/SM33-07?cardType=level-alternate&theme=github-dark&preferLogin=false"/>
+[![Soham's GitHub stats](https://github-stats-extended.vercel.app/api?username=SM33-07)](https://github.com/stats-organization/github-stats-extended)
 
 <img width="48%" src="https://streak-stats.demolab.com?user=SM33-07&theme=github-dark&hide_border=true"/>
 
